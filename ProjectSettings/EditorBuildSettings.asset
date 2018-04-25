@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Main.unity
+    guid: 29f74ae3ef937bf42852cf97124a8cdd
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Instrucciones.unity
+    guid: f38d8dd8bc8c137418791d3e1f4187dd
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Reglas.unity
+    guid: cf7127b126df1dc459bbc4a020523a92
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Info1.unity
+    guid: 8f51d1927aafa7749ad40dac9eccb402
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Info2.unity
+    guid: 4c39d2a06c125c84eae46210329346e8
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Info3.unity
+    guid: 35c916b714f8b434aa683ba44cc1c0d3
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Info4.unity
+    guid: a189de3b6cc64894f98a5ecac223c1b7
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Nivel.unity
+    guid: bac8387562441da4386cb6574f0ac682
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Opciones.unity
+    guid: 4c6cf7facdf92ae4caa38ab3c14f6170
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Empezar.unity
+    guid: 904aa1ef5d090924a8bc980ff392aca2
+  - enabled: 1
+    path: Assets/Scenes/Narrative/PresentarCoralina.unity
+    guid: 9e7941d9a8fb51b4ebbba9936ad89ed9
+  - enabled: 1
+    path: Assets/Scenes/MenuAndOptions/Salir.unity
+    guid: 9ba7f59ddfd20744bb8703abf9aab744
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative2.unity
+    guid: 1b173b09339889449a1c46fb2401e121
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative3.unity
+    guid: 1676d1882e2e60d47b18f4bc0df53161
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative4.unity
+    guid: 4abd107fc3ed54d4593a901eb0ff7004
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative5.unity
+    guid: e5421e8daec859444a4efb9937782193
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative6.unity
+    guid: f7d631f927c18404ba13cac781e8f52f
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative7.unity
+    guid: 638fde894fe8fde429cfc93898c173c5
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative8.unity
+    guid: e4f1b7db441af4e489ae36e4d6837f42
+  - enabled: 1
+    path: Assets/Scenes/Narrative/Narrative9.unity
+    guid: deb1631a43c02fd4c95995660ccf41e1
